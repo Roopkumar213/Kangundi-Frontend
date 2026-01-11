@@ -3,7 +3,7 @@ import SEO from '../components/common/SEO';
 import Section from '../components/ui/Section';
 import { motion } from 'framer-motion';
 import {
-    Wifi, Home, Mountain, BookOpen, Leaf,
+    Home, Mountain, BookOpen, Leaf,
     Smartphone, Map, Glasses, CreditCard, Users, BarChart3,
     ArrowRight, Building2, Radio
 } from 'lucide-react';
